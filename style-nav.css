@@ -75,25 +75,19 @@ header.sticky .logo, header.sticky ul li a{
         align-items: center;
         transition: 0.6s;
         flex-direction: column;
-        /* padding: 40px 100px; */
         z-index: 10000;
     }
     header .main {
         position: relative;
         display: none;
         text-align: center;
-        /* display: flex; */
-        /* flex-wrap: wrap; */
-        /* gap: 1rem; */
     }
     header .specs{
         position: relative;
         display: flex;
         justify-content: space-between;
         gap: 1rem;
-        /* flex-direction: column; */
         align-items: center;
-        /* border: 1px solid black; */
     }
     header .specs li{
         position: relative;
